@@ -1,4 +1,4 @@
-# project-ravadap-duanim
+# project-duanim
 The dataset is too big to upload in the repository so here is the link to download the dataset
 https://drive.google.com/file/d/1fy_rLM5MSbUgeZmnFX7zhi6Y7LX9nin-/view?usp=share_link
 
